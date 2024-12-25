@@ -40,5 +40,4 @@ jobs:
           branch: 'gh-pages'         # Deployment branch
           jekyll_src: './'           # Jekyll source directory
           jekyll_cfg: '_config.yml'  # Jekyll config file
-          jekyll_baseurl: '/class.github.io'  # Base URL for the site
           cname: ''                  # Optional: Custom domain
