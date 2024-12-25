@@ -47,8 +47,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-baseurl: "Shuyi-Song.github.io/" # the subpath of your site, e.g. /blog
-url: "/class.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/class.github.io" # the subpath of your site, e.g. /blog
+url: "https://shuyi-song.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
